@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/capakeep-v1/static/css/main.32c1911d.css",
+    "main.js": "/capakeep-v1/static/js/main.2ad4aad5.js",
+    "index.html": "/capakeep-v1/index.html",
+    "main.32c1911d.css.map": "/capakeep-v1/static/css/main.32c1911d.css.map",
+    "main.2ad4aad5.js.map": "/capakeep-v1/static/js/main.2ad4aad5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32c1911d.css",
+    "static/js/main.2ad4aad5.js"
+  ]
+}
